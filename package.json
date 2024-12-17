@@ -1,0 +1,22 @@
+{
+  "name": "js-create",
+  "version": "1.0.5",
+  "bin": {
+    "js-create": "src/index.js"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "Create",
+    "Init",
+    "JavaScript",
+    "JS Create",
+    "Initialize",
+    "JS"
+  ],
+  "author": "David Liahovitsky",
+  "license": "ISC",
+  "description": "a CLI tool for quickly initializing a new JavaScript project",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
